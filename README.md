@@ -33,11 +33,12 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 
-### 🗄️ Bancos de Dados & ORMs
+### 🗄️ Bancos de Dados, ORMs & Query Builders
 <div style="display: inline_block"><br>
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="typeorm" src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
+  <img align="center" alt="knex" src="https://img.shields.io/badge/Knex.js-D26AC2?style=for-the-badge&logo=knex.js&logoColor=white">
 </div>
 
 ### 🐳 DevOps & Ambientes
